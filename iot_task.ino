@@ -2,7 +2,7 @@
 #include <PubSubClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "Jio_susus_4G";
+const char* ssid = "Jio_4G";
 const char* password = "password";
 const char* mqtt_server = "broker.emqx.io";
 const int mqtt_port = 1883;
