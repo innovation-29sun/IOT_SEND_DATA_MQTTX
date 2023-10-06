@@ -1,5 +1,5 @@
 # IOT_SEND_DATA_MQTTX
-ESP32 Light Sensor and Randam Humidity Data 
+ESP32 Light Sensor Value and Some Randam Humidity Data 
 
 This involves an ESP32 microcontroller, an LDR sensor, and a 100K ohms resistor to measure light intensity and simulate humidity data. The data is sent to an MQTT broker every 30 seconds.
 Table of Contents
