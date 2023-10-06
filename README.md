@@ -11,8 +11,7 @@ Table of Contents
     Sending Data
     Repository Structure
     How to Use
-    Acknowledgements
-    License
+
 
 Introduction
 
