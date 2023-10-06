@@ -3,7 +3,7 @@
 #include <ArduinoJson.h>
 
 const char* ssid = "Jio_susus_4G";
-const char* password = "1497sasus";
+const char* password = "password";
 const char* mqtt_server = "broker.emqx.io";
 const int mqtt_port = 1883;
 // lightsensor (LDR) is connected to GPIO 34 (Analog ADC1_CH6) 
