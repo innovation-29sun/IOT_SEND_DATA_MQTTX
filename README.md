@@ -64,5 +64,4 @@ How to Use
     Ensure that your ESP32 is connected to a power source.
     The ESP32 will start sending data to the MQTT broker.
 
-Video in Drive link : (https://github.com/innovation-29sun/IOT_SEND_DATA_MQTTX/assets/84526146/a3300036-6b8a-4e0a-b38a-cb96388c361d)
-
+Video in Drive link :(https://drive.google.com/file/d/1cXk9LMG5fBnn9SbI3dE62LAJb6CEszJ6/view?usp=drive_link)https://drive.google.com/file/d/1cXk9LMG5fBnn9SbI3dE62LAJb6CEszJ6/view?usp=drive_link)
